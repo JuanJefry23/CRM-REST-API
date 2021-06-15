@@ -10,6 +10,7 @@ In the rendered list there are the options:
 
 ### Links of the deployed web app:
 Github pages: https://juanjefry23.github.io/CRM-REST-API/
+
 Netlify: https://unruffled-golick-4c6711.netlify.app/
 
 ### Technologies used in this project:
