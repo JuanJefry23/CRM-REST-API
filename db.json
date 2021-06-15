@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pepit",
+      "email": "P@correo.com",
+      "telefono": "111",
+      "empresa": "gatuno express",
+      "id": 1
+    },
+    {
+      "nombre": "Mentolina",
+      "email": "m@correo.com",
+      "telefono": "unodostres",
+      "empresa": "empresa gatitos s.a.c",
+      "id": 2
+    }
+  ]
+}
